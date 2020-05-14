@@ -1,4 +1,4 @@
-package org.mc.study.client.message.io;
+package org.mc.study.client.message.netty.io;
 
 import java.io.IOException;
 import java.io.OutputStream;
